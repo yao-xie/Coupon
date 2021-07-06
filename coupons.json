@@ -1,0 +1,20 @@
+[
+    {
+        "id":"25_5OFF",
+        "object":"coupon",
+        "brand":"Nike",
+        "shop":"Nike Store",
+        "detail":"Get ¥200 off of your entire purchase of ¥1000 or more.",
+        "amountOff":200,
+        "created":1625550677,
+        "start":1625550677,
+        "end":1625550677,
+        "currency":"usd",
+        "metadata":{
+
+        },
+        "summary":"25% off",
+        "percentOff":25,
+        "valid":true
+    }
+]

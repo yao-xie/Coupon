@@ -16,5 +16,23 @@
         "summary":"25% off",
         "percentOff":25,
         "valid":true
+    },
+    {
+        "id":"25_5OFF",
+        "object":"coupon",
+        "brand":"Adidas",
+        "shop":"Adidas Store",
+        "detail":"Get ¥100 off of your entire purchase of ¥500 or more.",
+        "amountOff":200,
+        "created":1625550677,
+        "start":1625550677,
+        "end":1625550677,
+        "currency":"usd",
+        "metadata":{
+
+        },
+        "summary":"25% off",
+        "percentOff":25,
+        "valid":true
     }
 ]
